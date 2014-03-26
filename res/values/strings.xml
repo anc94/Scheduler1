@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scheduler</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Welcome to Scheduler! Please make a selection:</string>
+    <string name="message1">Week At A Glance</string>
+    <string name="message2">Monthly Calendar</string>
+    <string name="message3">Upcoming Events</string>
+    <string name="message4">Employee Information</string>
+
+</resources>
